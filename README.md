@@ -1,4 +1,4 @@
-﻿#  Sistema de Gerenciamento de Usuários - SPS Group
+#  Sistema de Gerenciamento de Usuários - SPS Group
 
 Sistema CRUD completo com frontend React e backend Node.js para gerenciamento de usuários com autenticação JWT e interface moderna.
 
@@ -10,10 +10,9 @@ Este projeto foi desenvolvido como parte do processo seletivo da **SPS Group**, 
 
 ```
 sistema-usuarios-sps-group/
- frontend/          # Aplicação React
-    src/
-    public/
-    package.json
+ src/               # Aplicação React
+ public/
+ package.json
  backend/           # API Node.js + Express  
     src/
        controllers/
